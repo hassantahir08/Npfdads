@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">Nature Photo Frames</string>
+    <string name="app_name">NPFDAds</string>
 
+    <string name="please_wait">Please wait loading ad ..</string>
+    <string name="laoding_text">Loading...</string>
 
     <!--    TEST ADS-->
     <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>

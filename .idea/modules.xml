@@ -11,10 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sticker/Npfdads.sticker.unitTest.iml" />
     </modules>
   </component>
 </project>

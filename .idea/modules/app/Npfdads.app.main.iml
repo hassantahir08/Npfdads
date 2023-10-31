@@ -103,7 +103,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/69b8e8bf8c30056eb2a17be4e3338a35/transformed/constraintlayout-2.1.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8262bc9e221abfcb35274be17487ab2f/transformed/multidex-2.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5127e7d14d9d687af770395aeb32d833/transformed/jetified-sdp-android-1.0.6-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../compressor/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar</arg>
               </args>
@@ -178,7 +177,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 33 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Npfdads.compressor.main" />
+    <orderEntry type="module" module-name="Npfdads.sticker.main" />
     <orderEntry type="module-library">
       <library name="Gradle: kaptGeneratedClasses">
         <CLASSES>

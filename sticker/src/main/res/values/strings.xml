@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">NPFDAds</string>
+
+    <string name="please_wait">Please wait loading ad ..</string>
+    <string name="laoding_text">Loading...</string>
+
+    <!--    TEST ADS-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">/6499/example/banner</string>
+    <string name="admob_native_id">/6499/example/native</string>
+    <string name="admob_open_id">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="admob_inter_id">/6499/example/interstitial</string>
+    <string name="admob_inter_id_frames">/6499/example/interstitial</string>
+    <string name="admob_inter_id_blend">/6499/example/interstitial</string>
+    <string name="admob_inter_id_mirror">/6499/example/interstitial</string>
+    <string name="admob_inter_id_clg">/6499/example/interstitial</string>
+    <string name="admob_inter_id_effects">/6499/example/interstitial</string>
+    <string name="admob_inter_id_back_editors">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_inter_id_share_home">/6499/example/interstitial</string>
+
+
+    <!--    LIVE ADS-->
+    <!--    <string name="admob_app_id">ca-app-pub-4144293533495773~8871504242</string>-->
+    <!--    <string name="admob_banner_id">ca-app-pub-4144293533495773/4500649888</string>-->
+    <!--    <string name="admob_native_id">ca-app-pub-4144293533495773/9763018103</string>-->
+    <!--    <string name="admob_open_id">ca-app-pub-4144293533495773/8708385644</string>-->
+    <!--    <string name="admob_inter_id">ca-app-pub-4144293533495773/2947679345</string>-->
+    <!--    <string name="admob_inter_id_frames">ca-app-pub-4144293533495773/5059617619</string>-->
+    <!--    <string name="admob_inter_id_blend">ca-app-pub-4144293533495773/8688975089</string>-->
+    <!--    <string name="admob_inter_id_mirror">ca-app-pub-4144293533495773/3554964257</string>-->
+    <!--    <string name="admob_inter_id_clg">ca-app-pub-4144293533495773/5989555903</string>-->
+    <!--    <string name="admob_inter_id_effects">ca-app-pub-4144293533495773/8367225660</string>-->
+    <!--    <string name="admob_inter_id_back_editors">ca-app-pub-4144293533495773/1363915184</string>-->
+    <!--    <string name="admob_inter_id_share_home">ca-app-pub-4144293533495773/9235769999</string>-->
+
+
+</resources>

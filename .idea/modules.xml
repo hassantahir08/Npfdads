@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Npfdads.iml" filepath="$PROJECT_DIR$/.idea/modules/Npfdads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.iml" filepath="$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ads/Npfdads.ads.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Npfdads.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Npfdads.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/compressor/Npfdads.compressor.unitTest.iml" />
+    </modules>
+  </component>
+</project>

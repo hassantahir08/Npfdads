@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "342444037868",
+    "firebase_url": "https://nature-photo-frames-daul.firebaseio.com",
+    "project_id": "nature-photo-frames-daul",
+    "storage_bucket": "nature-photo-frames-daul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342444037868:android:d2b710ed3a382f2e",
+        "android_client_info": {
+          "package_name": "com.ashar.jungledualframes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342444037868-4nl9dlpe43m0ph7ftfnhn29utk0f69hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-Q3ntGEuDXpH8nsxC9G3wuiVX_dG4N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342444037868-49pttbh6ql1r9091r71g85o88k6l1eaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342444037868-9vtlvegps52ehe8md4k469vg7obshvld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meticode.NaturePhotoFrameDual"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4144293533495773~7478509440"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342444037868:android:bb39af0f07f5ad64",
+        "android_client_info": {
+          "package_name": "com.ashar.mountainsdualframes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342444037868-4nl9dlpe43m0ph7ftfnhn29utk0f69hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-Q3ntGEuDXpH8nsxC9G3wuiVX_dG4N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342444037868-49pttbh6ql1r9091r71g85o88k6l1eaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342444037868-9vtlvegps52ehe8md4k469vg7obshvld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meticode.NaturePhotoFrameDual"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342444037868:android:d085363e8a312db0",
+        "android_client_info": {
+          "package_name": "com.ashar.naturedual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342444037868-4nl9dlpe43m0ph7ftfnhn29utk0f69hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-Q3ntGEuDXpH8nsxC9G3wuiVX_dG4N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342444037868-49pttbh6ql1r9091r71g85o88k6l1eaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342444037868-9vtlvegps52ehe8md4k469vg7obshvld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meticode.NaturePhotoFrameDual"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4144293533495773~8871504242"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="green_dark">#2C9783</color>
+    <color name="green_light">#74D2C2</color>
+
+    <color name="bk_crop">#80000000</color>
+    <color name="colorPrimary">#1E1E1E</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="shadow_black">#20000000</color>
+    <color name="appThemeColorLight">#FF8E1B</color>
+    <color name="bottomBarColor">#717171</color>
+
+    <color name="app_puchase_bg">#153EA4</color>
+    <color name="app_puchase_button">#69CBB9</color>
+
+    <color name="blud_new_dark">#192A56</color>
+    <color name="grey">#EEEDE7</color>
+
+    <color name="blue_light">#9CC5FE</color>
+    <color name="blue_dark">#2776FB</color>
+
+
+
+
+    <color name="accent">#f2c748</color>
+    <color name="bg">#ff58554e</color>
+    <color name="button_text_color">#ff919191</color>
+    <color name="collage_tool_background_color">#ff535353</color>
+    <color name="divider_light">#ffdddddd</color>
+    <color name="footer_button_color_pressed">#ff1ea0d7</color>
+    <color name="gallery_ok_button_normal">#ff1ea0d7</color>
+    <color name="gallery_ok_button_pressed">#6ab2d1</color>
+    <color name="primary">#ff3a3a3a</color>
+    <color name="primary_dark">#f2c748</color>
+    <color name="text_white">#ffffffff</color>
+    <color name="view_flipper_bg_color">#ff535353</color>
+    <color name="yellow">#f2c748</color>
+
+    <color name="white_smoke">#FFFFFF</color>
+
+    <color name="transparent_1">#9A000000</color>
+
+    <color name="grey_text">#808080</color>
+    <color name="dark_blue">#030048</color>
+    <color name="dark_blue_new">#153EA4</color>
+    <color name="transparent">#0000ffff</color>
+
+
+    <color name="orange">#FF6524</color>
+    <color name="orange_light">#E4A78C</color>
+    <color name="orange_new">#F18F44</color>
+
+    <color name="alpha_white">#81FFFFFF</color>
+    <color name="color_g1">#FBEDA2</color>
+    <color name="yellow_btn_color">#FBC02D</color>
+
+    <color name="color_app_orange">#FFB341</color>
+
+    <color name="pink_dark">#FF6F89</color>
+    <color name="pink_light">#FDA7B7</color>
+    <color name="purple_design_color">#6D2EE7</color>
+    <color name="grey_light">#CDCDCD</color>
+
+    <color name="blue">#3AAAF8</color>
+    <color name="light_blue_bg_color">#F9FAFB</color>
+    <color name="green">#3DDC84</color>
+    <color name="red">#ff0000</color>
+
+    <color name="light_grey">#BFBFBF</color>
+    <color name="not_selected">#F5F5F5</color>
+
+    <color name="blue_color_picker">#0066FF</color>
+    <color name="brown_color_picker">#AF593E</color>
+    <color name="green_color_picker">#01A368</color>
+    <color name="orange_color_picker">#FF861F</color>
+    <color name="red_color_picker">#ED0A3F</color>
+    <color name="red_orange_color_picker">#FF3F34</color>
+
+    <color name="sky_blue_color_picker">#76D7EA</color>
+    <color name="violet_color_picker">#8359A3</color>
+    <color name="yellow_color_picker">#FBE870</color>
+    <color name="yellow_green_color_picker">#C5E17A</color>
+    <color name="light_grey_icon">#7E7B7B</color>
+    <color name="color_editor_grey">#C4C4C4</color>
+    <color name="bg_editor_dark">#1E1E1E</color>
+    <color name="bg_editor_daylight">#C4C4C4</color>
+
+</resources>

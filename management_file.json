@@ -1,7 +1,7 @@
 {
     "open_app_ad": true,
     "home_screen_native": false,
-    "home_screen_banner": true,
+    "home_screen_banner": false,
     "home_scr_effects_rewarded": true,
     "home_scr_double_rewarded": true,
     "home_effects_btn_inter": true,
